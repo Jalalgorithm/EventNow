@@ -52,7 +52,7 @@ function Footer() {
             <div className="col-md-6 align-self-center">
               <div className="copyright-text">
                 <p>
-                  <a href="#">Eventre</a> © 2017 All Right Reserved
+                  <a href="#">EventNow</a> © 2024 All Right Reserved
                 </p>
               </div>
             </div>
